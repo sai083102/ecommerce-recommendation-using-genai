@@ -103,7 +103,3 @@ For a complete list of dependencies, please refer to the `requirements.txt` file
 
 Contributions to the project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
 
-
-## License
-
-This project is licensed under the MIT License.
